@@ -1,0 +1,2954 @@
+.main {
+  min-width: 1440px;
+  min-height: 6764px;
+  position: relative;
+  margin: auto;
+  max-width: none;
+}
+
+.main .footer {
+  position: absolute;
+  top: 6490px;
+  left: 0;
+  width: 1440px;
+  height: 291px;
+  background-color: #f2a541;
+}
+
+.main .group {
+  position: absolute;
+  top: 62px;
+  left: 174px;
+  width: 348px;
+  height: 141px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.9px;
+}
+
+.main .text-wrapper {
+  width: 340px;
+  height: 30.05px;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: 39px;
+  white-space: nowrap;
+}
+
+.main .EB-garamond-website {
+  position: absolute;
+  top: 58px;
+  left: 956px;
+  width: 310px;
+  height: 28px;
+  display: flex;
+}
+
+.main .div {
+  flex: 1;
+  width: 310px;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.main .claude-garamond {
+  position: absolute;
+  top: 152px;
+  left: 838px;
+  width: 428px;
+  height: 28px;
+  display: flex;
+}
+
+.main .text-wrapper-2 {
+  flex: 1;
+  width: 428px;
+  font-weight: 700;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+  font-family: "EB Garamond", Helvetica;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .EB-garamond-google {
+  position: absolute;
+  top: 101px;
+  left: 861px;
+  width: 405px;
+  height: 29px;
+  display: flex;
+}
+
+.main .p {
+  flex: 1;
+  width: 405px;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.main .group-2 {
+  position: absolute;
+  top: 5548px;
+  left: 69px;
+  width: 1293px;
+  height: 794px;
+}
+
+.main .component {
+  position: absolute;
+  top: 211px;
+  left: 11px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-3 {
+  top: 36.11%;
+  font-weight: 400;
+  position: absolute;
+  width: 52.16%;
+  height: 27.78%;
+  left: 23.71%;
+  font-family: "EB Garamond";
+  color: #ffffff;
+  font-size: 160px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .div-wrapper {
+  position: absolute;
+  top: 542px;
+  left: 11px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-4 {
+  top: 36.11%;
+  font-weight: 800;
+  position: absolute;
+  width: 52.16%;
+  height: 27.78%;
+  left: 23.71%;
+  font-family: "EB Garamond";
+  color: #ffffff;
+  font-size: 160px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .component-2 {
+  position: absolute;
+  top: 211px;
+  left: 1059px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .component-3 {
+  position: absolute;
+  top: 542px;
+  left: 1059px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-5 {
+  top: 22.22%;
+  font-weight: 400;
+  position: absolute;
+  width: 52.16%;
+  height: 27.78%;
+  left: 23.71%;
+  font-family: "EB Garamond";
+  color: #ffffff;
+  font-size: 160px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .component-4 {
+  position: absolute;
+  top: 211px;
+  left: 273px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-6 {
+  position: absolute;
+  width: 100%;
+  height: 27.78%;
+  top: 36.11%;
+  left: 0;
+  font-family: "EB Garamond";
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 130px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .component-5 {
+  position: absolute;
+  top: 542px;
+  left: 273px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-7 {
+  position: absolute;
+  width: 100%;
+  height: 27.78%;
+  top: 36.11%;
+  left: 0;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 130px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .component-6 {
+  position: absolute;
+  top: 211px;
+  left: 535px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-8 {
+  position: absolute;
+  width: 100%;
+  height: 27.78%;
+  top: 36.11%;
+  left: 0;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 130px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .component-7 {
+  position: absolute;
+  top: 542px;
+  left: 535px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .component-8 {
+  position: absolute;
+  top: 211px;
+  left: 797px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .component-9 {
+  position: absolute;
+  top: 942px;
+  left: 597px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+.main .rectangle {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+  height: 100px;
+  background-color: #ffffff;
+}
+.main .text-wrapper-9 {
+  position: absolute;
+  top: 80px;
+  left: 4px;
+  width: 423px;
+  font-weight: 800;
+  color: #777da7;
+  font-size: 60px;
+  line-height: normal;
+  font-family: "EB Garamond", Helvetica;
+  letter-spacing: 0;
+}
+
+.main .component-10 {
+  position: absolute;
+  top: 5084px;
+  left: 164px;
+  width: 1111px;
+  height: 232px;
+}
+
+.main .rectangle-2 {
+  position: absolute;
+  width: 105.67%;
+  height: 43.00%;
+  top: -3.91%;
+  left: -3.06%;
+  background-color: #000000;
+}
+
+.main .text-wrapper-10 {
+  width: 14.99%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 0;
+  color: #ffffff;
+  font-size: 30px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-11 {
+  width: 16.45%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 83.55%;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-12 {
+  position: absolute;
+  width: 14.99%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 43.12%;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.main .text-wrapper-13 {
+  width: 13.14%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 21.52%;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-14 {
+  width: 8.46%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 66.33%;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-15 {
+  position: absolute;
+  width: 99.08%;
+  height: 29.31%;
+  top: 51.47%;
+  left: 0;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 52px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .component-11 {
+  position: absolute;
+  top: 5381px;
+  left: 164px;
+  width: 1111px;
+  height: 232px;
+}
+
+.main .text-wrapper-16 {
+  width: 14.99%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 0;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 50px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-17 {
+  width: 16.45%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 83.55%;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-18 {
+  width: 14.99%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 43.12%;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-19 {
+  width: 13.14%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 21.52%;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-20 {
+  width: 8.46%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 66.33%;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-21 {
+  position: absolute;
+  width: 99.08%;
+  height: 29.31%;
+  top: 51.47%;
+  left: 0;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #000000;
+  font-size: 52px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .specimen {
+  position: absolute;
+  top: 3669px;
+  left: 123px;
+  width: 1269px;
+  height: 1247px;
+}
+
+.main .text-wrapper-22 {
+  position: absolute;
+  top: 101px;
+  left: 50px;
+  width: 423px;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 800;
+  color: #777da7;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-23 {
+  top: 269px;
+  left: 544px;
+  width: 104px;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-24 {
+  top: 1172px;
+  left: 535px;
+  width: 135px;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-25 {
+  top: 704px;
+  left: 532px;
+  width: 127px;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-26 {
+  top: 473px;
+  left: 539px;
+  width: 113px;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-27 {
+  top: 928px;
+  left: 561px;
+  width: 69px;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-28 {
+  position: absolute;
+  top: 234px;
+  left: 50px;
+  width: 344px;
+  font-family: "EB Garamond", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-29 {
+  top: 436px;
+  left: 50px;
+  width: 344px;
+  font-weight: 500;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-30 {
+  top: 667px;
+  left: 50px;
+  width: 344px;
+  font-weight: 600;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-31 {
+  top: 891px;
+  left: 49px;
+  width: 374px;
+  font-weight: 700;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-32 {
+  top: 1135px;
+  left: 50px;
+  width: 374px;
+  font-weight: 800;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-33 {
+  top: 234px;
+  left: 798px;
+  width: 435px;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-34 {
+  top: 436px;
+  left: 799px;
+  width: 438px;
+  font-weight: 500;
+  font-style: italic;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-35 {
+  top: 667px;
+  left: 794px;
+  width: 435px;
+  font-weight: 600;
+  font-style: italic;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-36 {
+  top: 891px;
+  left: 779px;
+  width: 438px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-37 {
+  top: 1135px;
+  left: 774px;
+  width: 368px;
+  font-weight: 800;
+  font-style: italic;
+  position: absolute;
+  font-family: "EB Garamond", Helvetica;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .rectangle-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 209px;
+  visibility: hidden;
+}
+
+.main .rectangle-4 {
+  position: absolute;
+  top: 374px;
+  left: 49px;
+  width: 1093px;
+  height: 6px;
+  background-color: #f2a541;
+}
+
+.main .rectangle-5 {
+  position: absolute;
+  top: 598px;
+  left: 49px;
+  width: 1093px;
+  height: 6px;
+  background-color: #f2a541;
+}
+
+.main .rectangle-6 {
+  position: absolute;
+  top: 835px;
+  left: 50px;
+  width: 1093px;
+  height: 6px;
+  background-color: #f2a541;
+}
+
+.main .rectangle-7 {
+  position: absolute;
+  top: 1066px;
+  left: 49px;
+  width: 1093px;
+  height: 6px;
+  background-color: #f2a541;
+}
+
+.main .anatomy {
+  position: absolute;
+  top: 2786px;
+  left: calc(50.00% - 720px);
+  width: 1458px;
+  height: 916px;
+}
+
+.main .rectangle-8 {
+  position: absolute;
+  top: 70px;
+  left: calc(50.00% - 729px);
+  width: 1440px;
+  height: 846px;
+  background-color: #f2a541;
+}
+
+.main .vector {
+  top: 642px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .img {
+  top: 827px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-2 {
+  top: 601px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-3 {
+  top: 786px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-4 {
+  top: 576px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-5 {
+  top: 761px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-6 {
+  top: 670px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-7 {
+  top: 855px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .text-wrapper-38 {
+  top: 586px;
+  left: 174px;
+  font-family: "Garamond-Regular";
+  white-space: nowrap;
+  position: absolute;
+  width: 467px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .the-historical-style {
+  position: absolute;
+  top: 296px;
+  left: 174px;
+  width: 467px;
+  font-family: "Garamond-Regular";
+  font-weight: 400;
+  color: #000000;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.main .span {
+  font-family: "Garamond-Italic";
+  font-style: italic;
+}
+
+.main .text-wrapper-39 {
+  font-family: "Garamond-Regular";
+  font-weight: 400;
+  color: #000000;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .the-digital-revival {
+  position: absolute;
+  top: 296px;
+  left: 799px;
+  width: 467px;
+  font-family: "Garamond-Regular";
+  font-weight: 400;
+  color: #000000;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.main .text-wrapper-40 {
+  top: 771px;
+  left: 174px;
+  font-family: "Garamond-Regular";
+  white-space: nowrap;
+  position: absolute;
+  width: 467px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-41 {
+  top: 582px;
+  left: 799px;
+  font-family: "EB Garamond", Helvetica;
+  position: absolute;
+  width: 467px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-42 {
+  top: 767px;
+  left: 799px;
+  font-family: "EB Garamond";
+  position: absolute;
+  width: 467px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-43 {
+  position: absolute;
+  top: 218px;
+  left: 237px;
+  width: 281px;
+  font-family: "Garamond-Bold";
+  font-weight: 700;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-44 {
+  position: absolute;
+  top: 215px;
+  left: 873px;
+  width: 368px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .anatomy-2 {
+  position: absolute;
+  top: 89px;
+  left: 173px;
+  width: 527px;
+  font-family: "EB Garamond";
+  font-weight: 800;
+  color: #777da7;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .rectangle-9 {
+  left: 89px;
+  position: absolute;
+  top: 0;
+  width: 75px;
+  height: 65px;
+  background-color: #ffffff;
+}
+
+.main .authors {
+  position: absolute;
+  top: 1683px;
+  left: 171px;
+  width: 1102px;
+  height: 1117px;
+}
+
+.main .by-georg-mayr {
+  position: absolute;
+  top: 731px;
+  left: 507px;
+  width: 591px;
+  font-family: "EB Garamond";
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .rectangle-10 {
+  position: absolute;
+  top: 617px;
+  left: 0;
+  width: 426px;
+  height: 500px;
+}
+
+.main .text-wrapper-45 {
+  position: absolute;
+  top: 608px;
+  right: 220px;
+  width: 281px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #f2a541;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.main .group-3 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 1095px;
+  height: 498px;
+}
+
+.main .claude-garamond-was {
+  position: absolute;
+  top: 109px;
+  left: 0;
+  width: 626px;
+  font-weight: 400;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .rectangle-11 {
+  position: absolute;
+  top: 0;
+  left: 683px;
+  width: 408px;
+  height: 498px;
+}
+
+.main .text-wrapper-46 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 488px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #f2a541;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .history {
+  position: absolute;
+  top: 770px;
+  left: 117px;
+  width: 1152px;
+  height: 857px;
+}
+
+.main .EB-garamond-is {
+  position: absolute;
+  top: 235px;
+  left: 57px;
+  width: 625px;
+  font-family: "EB Garamond";
+  font-weight: 400;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-47 {
+  position: absolute;
+  top: 126px;
+  left: 57px;
+  width: 1090px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #777da7;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .quote {
+  position: absolute;
+  top: 216px;
+  left: 57px;
+  width: 1097px;
+  height: 641px;
+}
+
+.main .a-classic-serif-font {
+  position: absolute;
+  top: 433px;
+  left: 0;
+  width: 1091px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #777da7;
+  font-size: 90px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 100px;
+}
+
+.main .text-wrapper-48 {
+  font-style: italic;
+  display: inline-block;
+  margin-top: -100px;
+  font-size: 80px;
+}
+
+
+.main .line {
+  position: absolute;
+  top: 9px;
+  left: 702px;
+  width: 34px;
+  height: 373px;
+}
+
+.main .element-garamond-first {
+  position: absolute;
+  top: 0;
+  left: 748px;
+  width: 329px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .element-EB-garamond {
+  position: absolute;
+  top: 302px;
+  left: 748px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .topheroquote {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  width: 1442px;
+  height: 751px;
+}
+
+.main .rectangle-12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 751px;
+  background-color: #1e1e1e;
+}
+
+.main .rectangle-13 {
+  justify-content: center;
+  top: 5px;
+  left: 0;
+  width: 1440px;
+  height: 654px;
+}
+
+.main .group-4 {
+  position: absolute;
+  top: 5075px;
+  left: -8px;
+  width: 1456px;
+  height: 397px;
+}
+
+.main .rectangle-14 {
+  position: absolute;
+  top: 297px;
+  left: 1286px;
+  width: 162px;
+  height: 100px;
+  background-color: #000000;
+}
+
+.main .rectangle-15 {
+  position: absolute;
+  top: 0;
+  left: 1276px;
+  width: 180px;
+  height: 100px;
+  background-color: #000000;
+}
+
+.main .rectangle-16 {
+  position: absolute;
+  top: 297px;
+  left: 0;
+  width: 152px;
+  height: 100px;
+  background-color: #000000;
+}
+
+.main .rectangle-17 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  width: 164px;
+  height: 100px;
+  background-color: #000000;
+}
+
+.main .fixednavbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 99px;
+}
+.main {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 6764px;
+  position: relative;
+}
+
+.main .footer {
+  position: absolute;
+  top: 6490px;
+  left: 0;
+  width: 1440px;
+  height: 291px;
+  background-color: #f2a541;
+}
+
+.main .group {
+  position: absolute;
+  top: 62px;
+  left: 174px;
+  width: 348px;
+  height: 141px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.9px;
+}
+
+.main .text-wrapper {
+  width: 340px;
+  height: 30.05px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #000000;
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: 39px;
+  white-space: nowrap;
+}
+
+.main .EB-garamond-website {
+  position: absolute;
+  top: 58px;
+  left: 956px;
+  width: 310px;
+  height: 28px;
+  display: flex;
+}
+
+.main .div {
+  flex: 1;
+  width: 310px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.main .claude-garamond {
+  position: absolute;
+  top: 152px;
+  left: 838px;
+  width: 428px;
+  height: 28px;
+  display: flex;
+}
+
+.main .text-wrapper-2 {
+  flex: 1;
+  width: 428px;
+  font-weight: 700;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .EB-garamond-google {
+  position: absolute;
+  top: 75px;
+  left: 861px;
+  width: 405px;
+  height: 29px;
+  display: flex;
+}
+
+.main .p {
+  flex: 1;
+  width: 405px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.main .group-2 {
+  position: absolute;
+  top: 5548px;
+  left: 69px;
+  width: 1293px;
+  height: 794px;
+}
+
+.main .component {
+  position: absolute;
+  top: 211px;
+  left: 11px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-3 {
+  top: 36.11%;
+  font-weight: 400;
+  position: absolute;
+  width: 52.16%;
+  height: 27.78%;
+  left: 23.71%;
+  font-family: "EB Garamond";
+  color: #ffffff;
+  font-size: 160px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .div-wrapper {
+  position: absolute;
+  top: 542px;
+  left: 11px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-4 {
+  top: 36.11%;
+  font-weight: 800;
+  position: absolute;
+  width: 52.16%;
+  height: 27.78%;
+  left: 23.71%;
+  font-family: "EB Garamond";
+  color: #ffffff;
+  font-size: 160px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .component-2 {
+  position: absolute;
+  top: 211px;
+  left: 1059px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .component-3 {
+  position: absolute;
+  top: 542px;
+  left: 1059px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-5 {
+  top: 22.22%;
+  font-weight: 400;
+  position: absolute;
+  width: 52.16%;
+  height: 27.78%;
+  left: 23.71%;
+  font-family: "EB Garamond";
+  color: #ffffff;
+  font-size: 160px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .component-4 {
+  position: absolute;
+  top: 211px;
+  left: 273px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-6 {
+  position: absolute;
+  width: 100%;
+  height: 27.78%;
+  top: 36.11%;
+  left: 0;
+  font-family: "EB Garamond";
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 130px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .component-5 {
+  position: absolute;
+  top: 542px;
+  left: 273px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-7 {
+  position: absolute;
+  width: 100%;
+  height: 27.78%;
+  top: 36.11%;
+  left: 0;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 130px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .component-6 {
+  position: absolute;
+  top: 211px;
+  left: 535px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-8 {
+  position: absolute;
+  width: 100%;
+  height: 27.78%;
+  top: 36.11%;
+  left: 0;
+  font-family: "EB Garamond";
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 130px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.main .component-7 {
+  position: absolute;
+  top: 542px;
+  left: 535px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .component-8 {
+  position: absolute;
+  top: 211px;
+  left: 797px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .component-9 {
+  position: absolute;
+  top: 542px;
+  left: 797px;
+  width: 232px;
+  height: 252px;
+  background-color: #777da7;
+}
+
+.main .text-wrapper-9 {
+  position: absolute;
+  top: 47px;
+  left: 104px;
+  width: 423px;
+  font-weight: 800;
+  color: #777da7;
+  font-size: 60px;
+  line-height: normal;
+  font-family: "EB Garamond";
+  letter-spacing: 0;
+}
+
+
+.main .rectangle {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+  height: 65px;
+  background-color: #ffffff;
+}
+
+.main .rectangle-2 {
+  position: absolute;
+  width: 105.67%;
+  height: 43.00%;
+  top: -3.91%;
+  left: -3.06%;
+  background-color: #000000;
+}
+
+.main .text-wrapper-10 {
+  width: 14.99%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 0;
+  color: #ffffff;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-11 {
+  width: 16.45%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 83.55%;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-12 {
+  position: absolute;
+  width: 14.99%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 43.12%;
+  font-family: "EB Garamond";
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.main .text-wrapper-13 {
+  width: 13.14%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 21.52%;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-14 {
+  width: 8.46%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 66.33%;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-15 {
+  position: absolute;
+  width: 99.08%;
+  height: 29.31%;
+  top: 51.47%;
+  left: 0;
+  font-family: "EB Garamond";
+  font-weight: 400;
+  color: #000000;
+  font-size: 52px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .component-11 {
+  position: absolute;
+  top: 5381px;
+  left: 164px;
+  width: 1111px;
+  height: 232px;
+}
+
+.main .text-wrapper-16 {
+  width: 14.99%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 0;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-17 {
+  width: 16.45%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 83.55%;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-18 {
+  width: 14.99%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 43.12%;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-19 {
+  width: 13.14%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 21.52%;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-20 {
+  width: 8.46%;
+  height: 14.66%;
+  top: 5.54%;
+  left: 66.33%;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-21 {
+  position: absolute;
+  width: 99.08%;
+  height: 29.31%;
+  top: 51.47%;
+  left: 0;
+  font-family: "EB Garamond";
+  font-weight: 400;
+  font-style: italic;
+  color: #000000;
+  font-size: 52px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .specimen {
+  position: absolute;
+  top: 3669px;
+  left: 123px;
+  width: 1269px;
+  height: 1247px;
+}
+
+.main .text-wrapper-22 {
+  position: absolute;
+  top: 55px;
+  left: 50px;
+  width: 423px;
+  font-family: "EB Garamond";
+  font-weight: 800;
+  color: #777da7;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-23 {
+  top: 269px;
+  left: 544px;
+  width: 104px;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-24 {
+  top: 1172px;
+  left: 535px;
+  width: 135px;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-25 {
+  top: 704px;
+  left: 532px;
+  width: 127px;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-26 {
+  top: 473px;
+  left: 539px;
+  width: 113px;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-27 {
+  top: 928px;
+  left: 561px;
+  width: 69px;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-28 {
+  position: absolute;
+  top: 234px;
+  left: 50px;
+  width: 344px;
+  font-family: "EB Garamond";
+  font-weight: 400;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-29 {
+  top: 436px;
+  left: 50px;
+  width: 344px;
+  font-weight: 400;
+  position: absolute;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-30 {
+  top: 667px;
+  left: 50px;
+  width: 344px;
+  font-weight: 400;
+  position: absolute;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-31 {
+  top: 891px;
+  left: 49px;
+  width: 374px;
+  font-weight: 400;
+  position: absolute;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-32 {
+  top: 1135px;
+  left: 50px;
+  width: 374px;
+  font-weight: 400;
+  position: absolute;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-33 {
+  top: 234px;
+  left: 798px;
+  width: 435px;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-34 {
+  top: 436px;
+  left: 799px;
+  width: 438px;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-35 {
+  top: 667px;
+  left: 794px;
+  width: 435px;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-36 {
+  top: 891px;
+  left: 779px;
+  width: 438px;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-37 {
+  top: 1135px;
+  left: 774px;
+  width: 368px;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .rectangle-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 209px;
+  background-color: #ffffff;
+}
+
+.main .rectangle-4 {
+  position: absolute;
+  top: 374px;
+  left: 49px;
+  width: 1093px;
+  height: 6px;
+  background-color: #f2a541;
+}
+
+.main .rectangle-5 {
+  position: absolute;
+  top: 598px;
+  left: 49px;
+  width: 1093px;
+  height: 6px;
+  background-color: #f2a541;
+}
+
+.main .rectangle-6 {
+  position: absolute;
+  top: 835px;
+  left: 50px;
+  width: 1093px;
+  height: 6px;
+  background-color: #f2a541;
+}
+
+.main .rectangle-7 {
+  position: absolute;
+  top: 1066px;
+  left: 49px;
+  width: 1093px;
+  height: 6px;
+  background-color: #f2a541;
+}
+
+.main .anatomy {
+  position: absolute;
+  top: 2786px;
+  left: calc(50.00% - 720px);
+  width: 1458px;
+  height: 916px;
+}
+
+.main .rectangle-8 {
+  position: absolute;
+  top: 70px;
+  left: calc(50.00% - 729px);
+  width: 1440px;
+  height: 846px;
+  background-color: #f2a541;
+}
+
+.main .vector {
+  top: 642px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .img {
+  top: 827px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-2 {
+  top: 601px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-3 {
+  top: 786px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-4 {
+  top: 576px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-5 {
+  top: 761px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-6 {
+  top: 670px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .vector-7 {
+  top: 855px;
+  position: absolute;
+  left: 174px;
+  width: 1092px;
+  height: 2px;
+}
+
+.main .text-wrapper-38 {
+  top: 586px;
+  left: 174px;
+  font-family: "Garamond-Regular";
+  white-space: nowrap;
+  position: absolute;
+  width: 467px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .the-historical-style {
+  position: absolute;
+  top: 286px;
+  left: 174px;
+  width: 467px;
+  font-family: "Garamond-Regular";
+  font-weight: 400;
+  color: #000000;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.main .span {
+  font-family: "Garamond-Italic";
+  font-style: italic;
+}
+
+.main .text-wrapper-39 {
+  font-family: "Garamond-Regular";
+  font-weight: 400;
+  color: #000000;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .the-digital-revival {
+  position: absolute;
+  top: 286px;
+  left: 790px;
+  width: 467px;
+  font-family: "Garamond-Regular";
+  font-weight: 400;
+  color: #000000;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.main .text-wrapper-40 {
+  top: 771px;
+  left: 174px;
+  font-family: "Garamond-Regular";
+  white-space: nowrap;
+  position: absolute;
+  width: 467px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-41 {
+  top: 582px;
+  left: 799px;
+  font-family: "EB Garamond";
+  position: absolute;
+  width: 467px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-42 {
+  top: 767px;
+  left: 799px;
+  font-family: "EB Garamond";
+  position: absolute;
+  width: 467px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-43 {
+  position: absolute;
+  top: 180px;
+  left: 237px;
+  width: 281px;
+  font-family: "Garamond-Bold";
+  font-weight: 600;
+  color: #000000;
+  font-size: 55px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .text-wrapper-44 {
+  position: absolute;
+  top: 180px;
+  left: 860px;
+  width: 350px;
+  font-family: "EB Garamond";
+  font-weight: 600;
+  color: #000000;
+  font-size: 55px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.main .anatomy-2 {
+  position: absolute;
+  top: 89px;
+  left: 173px;
+  width: 527px;
+  font-family: "EB Garamond";
+  font-weight: 800;
+  color: #777da7;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .rectangle-9 {
+  left: 89px;
+  position: absolute;
+  top: 0;
+  width: 75px;
+  height: 65px;
+  background-color: #ffffff;
+}
+
+.main .authors {
+  position: absolute;
+  top: 1683px;
+  left: 171px;
+  width: 1102px;
+  height: 1117px;
+}
+
+.main .by-georg-mayr {
+  position: absolute;
+  top: 670px;
+  left: 550px;
+  width: 550px;
+  font-family: "EB Garamond";
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .rectangle-10 {
+  position: absolute;
+  top: 617px;
+  left: 0;
+  width: 426px;
+  height: 500px;
+}
+
+.main .text-wrapper-45 {
+  position: absolute;
+  top: 550px;
+  left: 800px;
+  width: 281px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #f2a541;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.main .group-3 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 1095px;
+  height: 498px;
+}
+
+.main .claude-garamond-was {
+  position: absolute;
+  top: 109px;
+  left: 0;
+  width: 626px;
+  font-weight: 400;
+  font-family: "EB Garamond";
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .rectangle-11 {
+  position: absolute;
+  top: 0;
+  left: 683px;
+  width: 408px;
+  height: 498px;
+}
+
+.main .text-wrapper-46 {
+  position: absolute;
+  top: -12px;
+  left: 0;
+  width: 488px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #f2a541;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .history {
+  position: absolute;
+  top: 770px;
+  left: 117px;
+  width: 1152px;
+  height: 857px;
+}
+
+.main .EB-garamond-is {
+  position: absolute;
+  top: 235px;
+  left: 57px;
+  width: 625px;
+  font-family: "EB Garamond";
+  font-weight: 400;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .text-wrapper-47 {
+  position: absolute;
+  top: 106px;
+  left: 57px;
+  width: 1090px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #777da7;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .quote {
+  position: absolute;
+  top: 216px;
+  left: 57px;
+  width: 1097px;
+  height: 641px;
+}
+
+.main .a-classic-serif-font {
+  position: absolute;
+  top: 433px;
+  left: 0;
+  width: 1091px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #777da7;
+  font-size: 90px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 100px;
+}
+
+.main .text-wrapper-48 {
+  font-style: italic;
+}
+
+.main .text-wrapper-49 {
+  font-style: italic;
+  font-size: 100px;
+}
+
+.main .line {
+  position: absolute;
+  top: 9px;
+  left: 702px;
+  width: 34px;
+  height: 373px;
+}
+
+.main .element-garamond-first {
+  position: absolute;
+  top: 0;
+  left: 748px;
+  width: 329px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .element-EB-garamond {
+  position: absolute;
+  top: 302px;
+  left: 748px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .topheroquote {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  width: 1442px;
+  height: 751px;
+}
+
+.main .rectangle-12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 751px;
+  background-color: #1e1e1e;
+}
+
+.main .rectangle-13 {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  width: 1440px;
+  height: 654px;
+}
+
+.main .the-revival-of {
+  position: absolute;
+  top: calc(50.00% - 180px);
+  left: calc(50.00% - 501px);
+  width: 1001px;
+  font-family: "EB Garamond";
+  font-weight: 700;
+  color: #f2a541;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 100px;
+}
+
+.main .group-4 {
+  position: absolute;
+  top: 5075px;
+  left: -8px;
+  width: 1456px;
+  height: 397px;
+}
+
+.main .rectangle-14 {
+  position: absolute;
+  top: 297px;
+  left: 1286px;
+  width: 162px;
+  height: 100px;
+  background-color: #000000;
+}
+
+.main .rectangle-15 {
+  position: absolute;
+  top: 0;
+  left: 1276px;
+  width: 180px;
+  height: 100px;
+  background-color: #000000;
+}
+
+.main .rectangle-16 {
+  position: absolute;
+  top: 297px;
+  left: 0;
+  width: 152px;
+  height: 100px;
+  background-color: #000000;
+}
+
+.main .rectangle-17 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  width: 164px;
+  height: 100px;
+  background-color: #000000;
+}
+
+.main .fixednavbar {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 1440px;
+  height: 99px;
+  z-index: 1000;
+}
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=EB+Garamond:800,400,500,700,600,italic");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+@font-face {
+  font-family: "Garamond-Regular";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/64492548299ed3bd9bb67cba/fonts/garamond-regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Garamond-Italic";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/60c8afd567d20f665655b5be/fonts/garam.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Garamond-Bold";
+  src: url("https://anima-uploads.s3.amazonaws.com/5c4194b83ad67b000a2f23f7/Garamond.ttf")
+    format("truetype");
+}
+
+/* Navbar container */
+.fixednavbar {
+  position: fixed;
+  top: 0;
+  left: 90px;
+  width: 100%;
+  background: #fff; /* or a color that matches your design */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  z-index: 1000;
+}
+
+/* Navbar layout */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0.8rem 1.5rem;
+}
+
+/* Logo */
+.logo img {
+  height: 50px;
+  width: auto;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 4rem;
+  background: #1e1e1e;
+  padding: 20px;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  font-size: 40px;
+  color: white;
+  margin: 30px;
+  transition: color 0.3s ease;
+}
+.nav-links li a:hover {
+  color: #f2a541;
+}
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+}
+html {
+  scroll-behavior: smooth;
+}
+.hidden-text {
+  position: absolute;
+  left: -9999px;
+}
+.fixednavbar {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+/* Base glyph style */
+.text-wrapper-3,
+.text-wrapper-4,
+.text-wrapper-5,
+.text-wrapper-6,
+.text-wrapper-7,
+.text-wrapper-8 {
+  font-family: "EB Garamond", serif;
+  font-size: 4rem; /* adjust as you like */
+  font-style: normal;
+  transition: font-style 0.3s ease, transform 0.3s ease;
+  display: inline-block;
+  cursor: default;
+}
+
+/* Hover: switch to italic + subtle lift */
+.text-wrapper-3:hover,
+.text-wrapper-4:hover,
+.text-wrapper-5:hover,
+.text-wrapper-6:hover,
+.text-wrapper-7:hover,
+.text-wrapper-8:hover {
+  font-style: italic;
+  transform: translateY(-5px);
+}
+.text-wrapper-3:hover,
+.text-wrapper-4:hover,
+.text-wrapper-5:hover,
+.text-wrapper-6:hover,
+.text-wrapper-7:hover,
+.text-wrapper-8:hover {
+  font-style: italic;
+  color: black;
+}
+.component,
+.div-wrapper,
+.component-2,
+.component-3,
+.component-4,
+.component-5,
+.component-6,
+.component-7,
+.component-8,
+.component-9 {
+  display: inline-block;
+  margin: 0.5rem;
+}
+.component-10 {
+  text-align: center;
+  padding: 2rem;
+  background-color: #fdfdfd;
+}
+
+.font-option {
+  display: inline-block;
+  margin: 0.5rem 1rem;
+  cursor: pointer;
+  font-family: "EB Garamond", serif;
+  transition: color 0.3s ease, transform 0.3s ease;
+  font-weight: 400;
+}
+
+.font-option:hover {
+  color: #4a90e2;
+  transform: translateY(-3px);
+}
+
+/* Highlight the selected one */
+.font-option.active {
+  color: #4a90e2;
+  text-decoration: none;
+}
+
+#fontSample {
+  margin-top: 2rem;
+  font-size: 2rem;
+  font-family: "EB Garamond", serif;
+  font-weight: 400;
+  transition: font-weight 0.3s ease;
+}
+.component-10 {
+  position: relative;
+  padding: 2rem;
+}
+
+.rectangle-2 {
+  width: 100%;
+  height: 150px;
+  background: #eee;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  border-radius: 10px;
+}
+
+/* Hide the radios */
+input[type="radio"] {
+  display: none;
+}
+
+.font-option {
+  display: inline-block;
+  margin: 0.5rem 1rem;
+  cursor: pointer;
+  font-family: "EB Garamond", serif;
+  position: relative;
+  z-index: 1;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.font-option:hover {
+  color: #4a90e2;
+  transform: translateY(-3px);
+}
+
+/* Active label highlight */
+#regular:checked ~ .text-wrapper-10,
+#medium:checked ~ .text-wrapper-13,
+#semibold:checked ~ .text-wrapper-12,
+#bold:checked ~ .text-wrapper-14,
+#extrabold:checked ~ .text-wrapper-11 {
+  color: #4a90e2;
+}
+
+/* The sample text */
+.text-wrapper-15 {
+  position: relative;
+  z-index: 1;
+  margin-top: 2rem;
+  font-size: 2rem;
+  font-family: "EB Garamond";
+  font-weight: 500;
+  transition: font-weight 0.3s ease, opacity 0.3s ease;
+}
+#regular:checked ~ .text-wrapper-15 {
+  font-weight: 300;
+}
+
+#medium:checked ~ .text-wrapper-15 {
+  font-weight: 500;
+}
+
+#semibold:checked ~ .text-wrapper-15 {
+  font-weight: 600;
+}
+
+#bold:checked ~ .text-wrapper-15 {
+  font-weight: 700;
+}
+
+#extrabold:checked ~ .text-wrapper-15 {
+  font-weight: 800;
+}
+
+.text-wrapper-3,
+.text-wrapper-4,
+.text-wrapper-5,
+.text-wrapper-6,
+.text-wrapper-7,
+.text-wrapper-8 {
+  font-family: "EB Garamond", serif;
+  font-size: 4rem; /* adjust as you like */
+  font-style: normal;
+  transition: font-style 0.3s ease, transform 0.3s ease;
+  display: inline-block;
+  cursor: default;
+}
+
+/* Hover: switch to italic + subtle lift */
+.text-wrapper-3:hover,
+.text-wrapper-4:hover,
+.text-wrapper-5:hover,
+.text-wrapper-6:hover,
+.text-wrapper-7:hover,
+.text-wrapper-8:hover {
+  font-style: italic;
+  transform: translateY(-5px);
+}
+.text-wrapper-3:hover,
+.text-wrapper-4:hover,
+.text-wrapper-5:hover,
+.text-wrapper-6:hover,
+.text-wrapper-7:hover,
+.text-wrapper-8:hover {
+  font-style: italic;
+  color: black;
+}
+.component,
+.div-wrapper,
+.component-2,
+.component-3,
+.component-4,
+.component-5,
+.component-6,
+.component-7,
+.component-8,
+.component-9 {
+  display: inline-block;
+  margin: 0.5rem;
+}
+.component-11 {
+  position: relative;
+  padding: 2rem;
+}
+
+.rectangle-2 {
+  width: 100%;
+  height: 150px;
+  background: #eee;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  border-radius: 10px;
+}
+
+/* Hide radios */
+input[type="radio"] {
+  display: none;
+}
+
+/* Font option labels */
+.font-options label,
+.style-options label {
+  display: inline-block;
+  margin: 0.5rem 1rem;
+  cursor: pointer;
+  font-family: "EB Garamond", serif;
+  position: relative;
+  z-index: 1;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.font-options label:hover,
+.style-options label:hover {
+  color: #4a90e2;
+  transform: translateY(-2px);
+}
+
+/* Highlight active weight */
+#r-regular:checked ~ .font-options label[for="r-regular"],
+#r-medium:checked ~ .font-options label[for="r-medium"],
+#r-semibold:checked ~ .font-options label[for="r-semibold"],
+#r-bold:checked ~ .font-options label[for="r-bold"],
+#r-extrabold:checked ~ .font-options label[for="r-extrabold"] {
+  color: #4a90e2;
+  text-decoration: none;
+}
+
+/* Highlight active style */
+#style-normal:checked ~ .style-options label[for="style-normal"],
+#style-italic:checked ~ .style-options label[for="style-italic"] {
+  color: #4a90e2;
+  text-decoration: none;
+}
+
+/* Sample text styling */
+.text-wrapper-21 {
+  position: relative;
+  z-index: 1;
+  margin-top: 2rem;
+  font-size: 2rem;
+  font-family: "EB Garamond", serif;
+  font-weight: 400;
+  font-style: normal;
+  transition: font-weight 0.3s ease, font-style 0.3s ease;
+}
+
+/* Change font weight based on selected radio */
+#r-regular:checked ~ .text-wrapper-21 { font-weight: 400; }
+#r-medium:checked ~ .text-wrapper-21 { font-weight: 500; }
+#r-semibold:checked ~ .text-wrapper-21 { font-weight: 600; }
+#r-bold:checked ~ .text-wrapper-21 { font-weight: 700; }
+#r-extrabold:checked ~ .text-wrapper-21 { font-weight: 800; }
